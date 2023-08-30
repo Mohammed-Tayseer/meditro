@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/meditro/static/css/main.3c0c60d5.css",
+    "main.js": "/meditro/static/js/main.c692c893.js",
+    "static/js/787.f44b8ff8.chunk.js": "/meditro/static/js/787.f44b8ff8.chunk.js",
+    "static/media/about04.jpg": "/meditro/static/media/about04.05b9f9c8c7a8b78d3501.jpg",
+    "static/media/about01.jpg": "/meditro/static/media/about01.82479c5fa3f0c181282e.jpg",
+    "static/media/about02.jpg": "/meditro/static/media/about02.44a8857a29387d526acb.jpg",
+    "static/media/about03.jpg": "/meditro/static/media/about03.c3c50fa45b53b5665a42.jpg",
+    "static/media/person-header.png": "/meditro/static/media/person-header.7c2bc96d67d3eba1d64a.png",
+    "static/media/news01.jpg": "/meditro/static/media/news01.67db6c474a828bd7a0cd.jpg",
+    "static/media/contact.jpg": "/meditro/static/media/contact.815eb17ad747be75950d.jpg",
+    "static/media/imgFooter.jpg": "/meditro/static/media/imgFooter.d025f458ac691ab6e8fa.jpg",
+    "static/media/news02.jpg": "/meditro/static/media/news02.89b8315141d75bd31ced.jpg",
+    "static/media/imgappointment.png": "/meditro/static/media/imgappointment.f82d73222992d2101a09.png",
+    "static/media/imgappointmentperson.png": "/meditro/static/media/imgappointmentperson.eb5c49c523f7d6240d33.png",
+    "static/media/wave.png": "/meditro/static/media/wave.1112f1ac0dc18e511a91.png",
+    "static/media/person05.jfif": "/meditro/static/media/person05.3fce1e2ceaf3c448ca3c.jfif",
+    "static/media/person02.jfif": "/meditro/static/media/person02.8bd8e7509714483fa6cf.jfif",
+    "static/media/person01.jfif": "/meditro/static/media/person01.c1366f6acf2c1bc9ad53.jfif",
+    "static/media/person03.jfif": "/meditro/static/media/person03.26a819e1e5d6e2e7be59.jfif",
+    "static/media/person06.jfif": "/meditro/static/media/person06.ede18e16530df363bee6.jfif",
+    "static/media/person04.jfif": "/meditro/static/media/person04.751364a8ae13d2be0958.jfif",
+    "static/media/slick.svg": "/meditro/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/meditro/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/meditro/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/meditro/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/meditro/index.html",
+    "main.3c0c60d5.css.map": "/meditro/static/css/main.3c0c60d5.css.map",
+    "main.c692c893.js.map": "/meditro/static/js/main.c692c893.js.map",
+    "787.f44b8ff8.chunk.js.map": "/meditro/static/js/787.f44b8ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0c60d5.css",
+    "static/js/main.c692c893.js"
+  ]
+}
