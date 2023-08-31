@@ -71,4 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Project Details
 Project URL: [https://meditro.vercel.app/]
+
 Description: Pioneering medical website enhancing health experience. Access distinct, diverse medical services through our platform.
